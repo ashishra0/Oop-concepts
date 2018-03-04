@@ -14,7 +14,7 @@ class User
     end
 end
 
-# Create Object of User class
+# Create Object of User class.
 user = User.new("Ashish", "ashish@example.com")
-# Use the method as defined in the module for user object
+# Use the method as defined in the module for user object.
 user.destroy("myname")
